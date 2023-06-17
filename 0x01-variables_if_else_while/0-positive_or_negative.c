@@ -1,6 +1,6 @@
-#include <atdlib.h>
+#include <stdlib.h>
 #include <time.h>
-#include <atdio>
+#include <stdio>
 
 /**
  * main - Entry point
