@@ -9,7 +9,9 @@
 
 int main(void) 
 
+
 {
+
 
 	int p, q;
 
