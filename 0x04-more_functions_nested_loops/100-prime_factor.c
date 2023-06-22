@@ -11,6 +11,7 @@ int main(void)
 	long int n;
 	long int max;
 	long int i;
+
 	n = 612852475143;
 	max = -1;
 
@@ -28,8 +29,10 @@ int main(void)
 			n = n / i;
 		}
 	}
-	
+
+
 	if (n > 2)
+
 		max = n;
 	printf("%ld\n", max);
 
